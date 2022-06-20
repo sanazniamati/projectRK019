@@ -9,4 +9,4 @@ It provides declarative and reactive bindings to the [Konva Framework](https://k
 
 ![regular polygon](./img.png)
 
-**How To create a regular polygon with react-Konva ? **
+**How "To create an arrow with react-Konva ?**
